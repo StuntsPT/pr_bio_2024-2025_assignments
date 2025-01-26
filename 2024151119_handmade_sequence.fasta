@@ -1,0 +1,18 @@
+>DNA sequence with ambiguities 
+ATGMACGAVCCTDGATTNAAA
+>Possible unambiguous sequence 1
+ATGAACGAACCTAGATTAAAA
+>Possible unambiguous sequence 2
+ATGAACGACCCTTGATTGAAA
+>Possible unambiguous sequence 3
+ATGCACGAGCCTGGATTCAAA
+>Reverse of sequence 3
+AAACTTAGGTCCGAGCACGTA
+>Complement of sequence 3
+TACGTGCTCGGACCTAAGTTT
+>Reverse-complement of sequence 3
+TTTGAATCCAGGCTCGTGCAT
+>Amino-acid chain of sequence 3
+MHEPGFK
+
+
