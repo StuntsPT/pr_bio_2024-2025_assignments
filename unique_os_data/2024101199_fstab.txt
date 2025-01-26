@@ -1,7 +1,7 @@
 # /etc/fstab
 # Created by anaconda on Mon Nov 25 17:02:17 2024
 #
-# Accessible filesystems, by reference, are maintained under '/dev/disk/'.
+# Accessible filesystems, by reference are maintained under '/dev/disk/'.
 # See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info.
 #
 # After editing this file, run 'systemctl daemon-reload' to update systemd
