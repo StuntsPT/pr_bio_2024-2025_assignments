@@ -1,4 +1,4 @@
-           /:-------------:\          bruno@vbox
+           /:-------------:\          brunos@vbox
         :-------------------::        OS: Fedora 
       :-----------/shhOHbmp---:\      Kernel: x86_64 Linux 6.11.4-301.fc41.x86_64
     /-----------omMMMNNNMMD  ---:     Uptime: 2h 1m
